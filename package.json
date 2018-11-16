@@ -12,6 +12,9 @@
     "length.js": "^1.1.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "babel-loader": "^8.0.4",
     "webpack": "^4.25.1",
     "webpack-cli": "^3.1.2"
   }
